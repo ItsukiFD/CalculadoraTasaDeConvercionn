@@ -1,4 +1,4 @@
-# CalculadoraTasaDeConvercionn
+# CalculadoraTasaDeConvercion
  Calculadora de divisas 
 
 Este programa calcula la convercion de divisas con divisas preestablecidas el mes de Marzo del 2025
@@ -7,7 +7,7 @@ Este programa calcula la convercion de divisas con divisas preestablecidas el me
 - Python 3.x
 
 ## 🚀 Instalación
-1. Clona este repositorio o descarga el archivo `password_generator.py`.
+1. Clona este repositorio o descarga el archivo `CalculadoraTasaDeConvercion.py`.
 2. Asegúrate de tener Python instalado.
 
 ## ⚡ Uso
